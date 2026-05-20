@@ -1,0 +1,6 @@
+{
+  "name": "Weatherwise FORECAST",
+  "description": "A premium glassmorphic weather application featuring live queries, geolocated searches, a 7-day outlook, and step-by-step hourly breakdowns using the Open-Meteo API.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
